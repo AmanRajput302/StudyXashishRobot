@@ -6,7 +6,7 @@ API_ID = int(os.environ.get("API_ID", "23480065"))
 API_HASH = os.environ.get("API_HASH", "32edb7d7fc1523b436109bff8ea061fc")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
-CREDIT = os.environ.get("CREDIT", "TG✗ ᎢᎻᎪᏦᏌᎡ 모 https://t.me/TGXTHAKUR")
+CREDIT = os.environ.get("CREDIT", "<a href='https://t.me/TGxThakur'>—͟͞͞Asʜᴜ🇮🇳🤍</a>")
 # MongoDB Configuration
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "UGxPRO")
 DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://savebot:RxxBfvkv1xnGsbPL@cluster0.9zpw7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -59,6 +59,7 @@ Please contact the admin @ItsUGBot to get access.</blockquote>""",
 
 <blockquote>Use format: {format}</blockquote>"""
 }
+
 
 
 
